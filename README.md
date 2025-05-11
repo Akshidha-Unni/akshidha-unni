@@ -1,6 +1,8 @@
 ## Hi there !
 I am Akshidha Unni, Data Science and Artificial Intelligence graduate student @ Carleton University.
 - 🔭 I’m currently working as a AI Engineer Intern @ DocumentPro
+- I'm currently learning and experimenting with AgenticAI Extraction.
+- 😄 Fun Fact: 
 <!--
 **Akshidha-Unni/akshidha-unni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
