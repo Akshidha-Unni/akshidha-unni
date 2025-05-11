@@ -25,6 +25,12 @@ I am Akshidha Unni, Data Science and Artificial Intelligence graduate student @ 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau)
 😄 Fun Fact: 
+
+
+📫 Reach me at:  
+[![Gmail](https://img.shields.io/badge/Gmail-akshidha2002@gmail.com-red?style=flat&logo=gmail)](mailto:akshidha2002@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshidha_Unni-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akshidha-unni/)  
+
 <!--
 **Akshidha-Unni/akshidha-unni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
