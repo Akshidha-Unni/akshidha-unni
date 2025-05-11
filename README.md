@@ -13,8 +13,8 @@ I am Akshidha Unni, pursing a Masters in Engineering in **Data Science, Analytic
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJs" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="PowerBi" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="50" height="50"/>
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg](https://img.icons8.com/color/48/power-bi.png)" alt="PowerBi" width="50" height="50"/>
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg](https://img.icons8.com/color/48/tableau-software.png)" alt="Tableau" width="50" height="50"/>
 </p>
 
 ### 🤖 AI & ML Domains
@@ -40,7 +40,7 @@ I am Akshidha Unni, pursing a Masters in Engineering in **Data Science, Analytic
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Transformers](https://img.shields.io/badge/HuggingFace%20Transformers-yellow?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square)
-![FastAPI]![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 #### R
@@ -48,27 +48,13 @@ I am Akshidha Unni, pursing a Masters in Engineering in **Data Science, Analytic
 ![dplyr](https://img.shields.io/badge/dplyr-1F77B4?style=flat-square)
 ![tidyr](https://img.shields.io/badge/tidyr-17BECF?style=flat-square)
 ![caret](https://img.shields.io/badge/caret-FF7F0E?style=flat-square)
-![tidymodels](https://img.shields.io/badge/tidymodels-8E44AD?style=for-the-badge)
-![glmnet](https://img.shields.io/badge/glmnet-C0392B?style=for-the-badge)
+![tidymodels](https://img.shields.io/badge/tidymodels-8E44AD?style=flat-square)
+![glmnet](https://img.shields.io/badge/glmnet-C0392B?style=flat-squaree)
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshidhaunni&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshidha-unni&layout=compact&theme=tokyonight)
 
 📫 Reach me at:  
 [![Gmail](https://img.shields.io/badge/Gmail-akshidha2002@gmail.com-red?style=flat&logo=gmail)](mailto:akshidha2002@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshidha_Unni-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akshidha-unni-5669271b0/)  
 
-<!--
-**Akshidha-Unni/akshidha-unni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working as ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
