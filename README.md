@@ -29,7 +29,7 @@ I am Akshidha Unni, Data Science and Artificial Intelligence graduate student @ 
 
 📫 Reach me at:  
 [![Gmail](https://img.shields.io/badge/Gmail-akshidha2002@gmail.com-red?style=flat&logo=gmail)](mailto:akshidha2002@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshidha_Unni-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akshidha-unni/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshidha_Unni-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akshidha-unni-5669271b0/)  
 
 <!--
 **Akshidha-Unni/akshidha-unni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
