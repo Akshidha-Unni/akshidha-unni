@@ -15,7 +15,7 @@ I am Akshidha Unni, pursing a Masters in Engineering in **Data Science, Analytic
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/power-bi.png" alt="PowerBi" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" width="50" height="50"/>
 </p>
 
 ### 🤖 AI & ML Domains
