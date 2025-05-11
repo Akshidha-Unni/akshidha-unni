@@ -17,18 +17,6 @@ I am Akshidha Unni, Data Science and Artificial Intelligence graduate student @ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
-| Tool/Language | Logo |
-|---------------|------|
-| **Python** | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg =40x40) |
-| **R** | ![R](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg =40x40) |
-| **SQL (MySQL)** | ![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg =40x40) |
-| **Power BI** | ![Power BI](https://img.icons8.com/color/48/power-bi.png) |
-| **Tableau** | ![Tableau](https://img.icons8.com/color/48/tableau-software.png) |
-| **HTML5** | ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg =40x40) |
-| **CSS3** | ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg =40x40) |
-| **JavaScript** | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg =40x40) |
-| **Git** | ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg =40x40) |
-| **Linux** | ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg =40x40) |
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
