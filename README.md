@@ -13,8 +13,11 @@ I am Akshidha Unni, pursing a Masters in Engineering in **Data Science, Analytic
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJs" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg](https://img.icons8.com/color/48/power-bi.png)" alt="PowerBi" width="50" height="50"/>
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg](https://img.icons8.com/color/48/tableau-software.png)" alt="Tableau" width="50" height="50"/>
+  <img src="[https://img.icons8.com/color/48/power-bi.png" alt="PowerBi" width="50" height="50"/>
+  <img src="[https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="50" height="50"/>
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
+
+---
 </p>
 
 ### 🤖 AI & ML Domains
