@@ -19,38 +19,38 @@ I am Akshidha Unni, pursing a Masters in Engineering in **Data Science, Analytic
 </p>
 
 ### 🤖 AI & ML Domains
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-darkblue?style=for-the-badge&logo=pytorch&logoColor=white)
-![Gen AI](https://img.shields.io/badge/Generative%20AI-black?style=for-the-badge&logo=OpenAI&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-purple?style=for-the-badge&logo=autogpt&logoColor=white)
-![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-green?style=for-the-badge&logo=spacy&logoColor=white)
-![Time Series](https://img.shields.io/badge/Time%20Series-ff7f50?style=for-the-badge&logo=clockify&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-teal?style=for-the-badge&logo=plotly&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=style=flat-square&logo=scikit-learn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-darkblue?style=style=flat-square&logo=pytorch&logoColor=white)
+![Gen AI](https://img.shields.io/badge/Generative%20AI-black?style=style=flat-square&logo=OpenAI&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-purple?style=style=flat-square&logo=autogpt&logoColor=white)
+![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-green?style=style=flat-square&logo=spacy&logoColor=white)
+![Time Series](https://img.shields.io/badge/Time%20Series-ff7f50?style=style=flat-square&logo=clockify&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-teal?style=style=flat-square&logo=plotly&logoColor=white)
 
 ---
 
 ### 📚 Libraries
 
 #### Python
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-d9534f?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0080CD?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Transformers](https://img.shields.io/badge/HuggingFace%20Transformers-yellow?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-d9534f?style=style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=style=flat-square&logo=opencv&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0080CD?style=style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=style=flat-square&logo=numpy&logoColor=white)
+![Transformers](https://img.shields.io/badge/HuggingFace%20Transformers-yellow?style=style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-black?style=style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=style=flat-square&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=style=flat-square&logo=pytorch&logoColor=white)
 
 #### R
-![ggplot2](https://img.shields.io/badge/ggplot2-2C3E50?style=for-the-badge)
-![dplyr](https://img.shields.io/badge/dplyr-1F77B4?style=for-the-badge)
-![tidyr](https://img.shields.io/badge/tidyr-17BECF?style=for-the-badge)
-![caret](https://img.shields.io/badge/caret-FF7F0E?style=for-the-badge)
-![tidymodels](https://img.shields.io/badge/tidymodels-8E44AD?style=for-the-badge)
-![glmnet](https://img.shields.io/badge/glmnet-C0392B?style=for-the-badge)
+![ggplot2](https://img.shields.io/badge/ggplot2-2C3E50?style=style=flat-square)
+![dplyr](https://img.shields.io/badge/dplyr-1F77B4?style=style=flat-square)
+![tidyr](https://img.shields.io/badge/tidyr-17BECF?style=style=flat-square)
+![caret](https://img.shields.io/badge/caret-FF7F0E?style=style=flat-square)
+![tidymodels](https://img.shields.io/badge/tidymodels-8E44AD?style=style=flat-square)
+![glmnet](https://img.shields.io/badge/glmnet-C0392B?style=style=flat-square)
 
 ### 📊 GitHub Stats
 
