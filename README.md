@@ -50,7 +50,7 @@ I am Akshidha Unni, pursing a Masters in Engineering in **Data Science, Analytic
 ![tidyr](https://img.shields.io/badge/tidyr-17BECF?style=for-the-badge)
 ![caret](https://img.shields.io/badge/caret-FF7F0E?style=for-the-badge)
 ![tidymodels](https://img.shields.io/badge/tidymodels-8E44AD?style=for-the-badge)
-![glmnet](https://img.shields.io/badge/glmnet-C0392B?style=for-the-badgee)
+![glmnet](https://img.shields.io/badge/glmnet-C0392B?style=for-the-badge)
 
 ### 📊 GitHub Stats
 
